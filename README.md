@@ -1,1 +1,1 @@
-# Patika-Veri-Yap-Algoritma
+# Patika.dev Veri Yapıları ve Algoritmalar Proje Yanıtları
