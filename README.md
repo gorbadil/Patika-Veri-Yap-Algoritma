@@ -1,0 +1,1 @@
+# Patika-Veri-Yap-Algoritma
